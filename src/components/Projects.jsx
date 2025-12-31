@@ -14,7 +14,7 @@ export default function Projects() {
                 <p>A simple todo app built in React.</p>
                 <div className="project-buttons">
                     <a 
-                    href="https://your-news-live-demo.com"
+                    href="https://to-do-app-beta-brown-87.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="project-btn"
@@ -22,7 +22,7 @@ export default function Projects() {
                         Live Demo
                     </a>
                     <a
-                    href="https://github.com/yourusername/news-app"
+                    href="https://github.com/amitvashisht02/To-Do-App"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="project-btn"
@@ -40,7 +40,7 @@ export default function Projects() {
                 <p>Displays live news using API + React hooks.</p>
                 <div className="project-buttons">
                     <a
-                    href="https://your-news-live-demo.com"
+                    href="https://news-app-sable-nine.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn project-btn"
@@ -48,7 +48,7 @@ export default function Projects() {
                         Live Demo
                     </a>
                     <a
-                    href="https://github.com/yourusername/news-app"
+                    href="https://github.com/amitvashisht02/news-app"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn project-btn"
@@ -66,7 +66,7 @@ export default function Projects() {
                 <p> A minimal Kanban board built with React.</p>
                 <div className="project-buttons">
                     <a 
-                    href="https://your-news-live-demo.com"
+                    href="https://kanban-board-beta-red.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="project-btn"
@@ -74,7 +74,7 @@ export default function Projects() {
                         Live Demo
                     </a>
                     <a
-                    href="https://github.com/yourusername/news-app"
+                    href="https://github.com/amitvashisht02/kanban-board"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="project-btn"
