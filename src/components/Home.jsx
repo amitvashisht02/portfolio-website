@@ -8,7 +8,7 @@ export default function Home() {
         <div className="home-box">
             <img src={profile} alt="My Profile" className="profile-pic"/>
         </div>
-        <p>Hello! I'm Amit Vashisht - a Software Developer (Frontend)</p>
+        <p>Hello! I'm Amit Vashisht - An Aspiring Software Developer</p>
         </div>
     );
 }
