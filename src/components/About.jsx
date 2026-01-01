@@ -2,7 +2,7 @@ export default function About() {
     return (
         <div className="section" id="about">
             <h2>About Me</h2>
-            <p>Hi, I'm Amit — a self-taught frontend developer who loves turning ideas into clean and functional interfaces.
+            <p>Hi, I'm Amit — a self-taught, aspiring software developer who loves turning ideas into clean and functional interfaces.
                 <br></br>
                 <br></br>
                 I started learning web development on my own, and every day I’m building, breaking, and improving things to grow faster. I enjoy understanding concepts deeply and creating simple solutions that work smoothly.
